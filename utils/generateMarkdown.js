@@ -39,13 +39,14 @@ function generateMarkdown(data) {
   ## Usage
   ${data.usage}
   ${renderLicenseSection(data.license)}
+  ## Badges
+  ${renderLicenseBadge(data.license)}
   ## Contribute
   ${data.contribute}
   ## Tests
   ${data.tests} 
-  ##Questions
+  ## Questions
   [Link to my GitHub Profile](https://github.com/${data.username})
-  ${renderLicenseBadge(data.license)}
 `;
 }
 

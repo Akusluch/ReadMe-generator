@@ -25,11 +25,6 @@ const licensesDetails = [
       'link': `http://creativecommons.org/publicdomain/zero/1.0/`
     },
     {
-      'name': 'Do What The F*ck You Want To Public License',
-      'badge': `[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)`,
-      'link': `http://www.wtfpl.net/about/`
-    },
-    {
       'name': 'Eclipse Public License 1.0',
       'badge': `[![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0)`,
       'link': `https://opensource.org/licenses/EPL-1.0`
